@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=GITHS&theme=merko)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=GITHS&theme=gruvbox)
