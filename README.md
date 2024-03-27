@@ -5,4 +5,5 @@
 <img src="https://img.shields.io/badge/HTML5-2b2b2b.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-2b2b2b.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/javascript-2b2b2b.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/CSS3-2b2b2b.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/mysql-2b2b2b.svg?style=for-the-badge&logo=mysql3&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/mysql-2b2b2b.svg?style=for-the-badge&logo=mysql3&logoColor=4479A1" />
