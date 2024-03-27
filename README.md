@@ -2,3 +2,4 @@
 <hr>
 <img src="https://img.shields.io/badge/GitHub-ffffff.svg?style=for-the-badge&logo=github&logoColor=181717" />
 <img src="https://img.shields.io/badge/Git-2b2b2b.svg?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/HTML5-2b2b2b.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
